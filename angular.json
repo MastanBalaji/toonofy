@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "toonofy"
+    }
+  },
+  "defaultProject": "toonofy",
+  "cli": {
+    "analytics": "a4d0adba-503c-4e4b-b061-533beba2a6d9"
+  }
 }
